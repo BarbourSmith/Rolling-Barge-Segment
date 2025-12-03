@@ -2557,8 +2557,8 @@
     },
     {
       "atomType": "Molecule",
-      "x": 0.4325699745547074,
-      "y": 0.9228070175438596,
+      "x": 0.3155216284987277,
+      "y": 0.9508771929824562,
       "uniqueID": "id-1396",
       "name": "Barel Braces",
       "topLevel": false,
@@ -2732,6 +2732,26 @@
         }
       ],
       "fileTypeVersion": 1
+    },
+    {
+      "atomType": "Move",
+      "x": 0.7659033078880407,
+      "y": 0.7368421052631579,
+      "uniqueID": "id-1442",
+      "ioValues": [
+        {
+          "name": "xDist",
+          "ioValue": 0
+        },
+        {
+          "name": "yDist",
+          "ioValue": 0
+        },
+        {
+          "name": "zDist",
+          "ioValue": 0
+        }
+      ]
     }
   ],
   "allConnectors": [
