@@ -2,5 +2,5 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|55 Galon Plastic Drum|4|$0.00|www.example.com|
+|New Item|4|$0.00||
 |Total: |4|$0.00| |
